@@ -20,7 +20,7 @@ Construct the upper triangular matrix R
 ''' 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: GOWTHAM S
-RegisterNumber: 2305003004
+RegisterNumber: 2305002008
 '''
 import numpy as np
 def QR_Decomposition(A):
